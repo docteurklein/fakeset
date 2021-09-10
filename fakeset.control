@@ -1,0 +1,5 @@
+comment = 'fakeset:  Created by pgx'
+default_version = '1.0'
+module_pathname = '$libdir/fakeset'
+relocatable = false
+superuser = false
