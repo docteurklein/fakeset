@@ -19,8 +19,6 @@ pgx = "0.1.22"
 pgx-macros = "0.1.22"
 fake = "2.4"
 rand = "0.8"
-rand_pcg = "0.3"
-lazy_static = "1.4"
 
 [dev-dependencies]
 pgx-tests = "0.1.22"
